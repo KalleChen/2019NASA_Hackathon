@@ -1,0 +1,14 @@
+.Navbar{
+    position:absolute;
+    display: flex;
+    /* // flex-direction: row; */
+    background:black;
+    width:100vw;
+    height: 20px;
+    margin-top:0;
+}
+.oioi{
+    height:10px;
+    width:20%;
+    background:red;
+}

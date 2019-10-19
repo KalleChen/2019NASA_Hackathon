@@ -6,8 +6,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import './index.css'
+// import './index.css'
+import Ha from './ha.js'
 
-import App from './App'
 
-ReactDOM.render(<App />, document.getElementById('root'))
+ReactDOM.render(<Ha />, document.getElementById('root'))
