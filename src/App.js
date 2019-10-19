@@ -6,7 +6,7 @@
 import React, { Component } from 'react'
 import Globe from 'worldwind-react-globe'
 import axios from 'axios'
-import Jiji from './t/Navbar.js'
+
 
 import { 
   CardColumns, 
