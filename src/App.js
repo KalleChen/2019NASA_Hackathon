@@ -22,7 +22,7 @@ import {
 
 import './App.css'
 
-class App extends React.Component {
+class App extends Component {
     
   constructor(props) {
     super(props)

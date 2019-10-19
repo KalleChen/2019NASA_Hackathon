@@ -1,8 +1,8 @@
 {
   "name": "worldwind-react-app",
   "version": "1.0.0",
-  "private": true,
-  "homepage": "https://L4ll1p0p.github.io/2019NASA_Hackthon",
+  "private": false,
+  "homepage": "https://l4ll1p0p.github.io/2019NASA_Hackthon",
   "dependencies": {
     "ajv": "^6.5.3",
     "axios": "^0.19.0",
